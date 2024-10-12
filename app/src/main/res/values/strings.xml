@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book Store</string>
+
+    <string name="buy_now">Buy now</string>
+
+    <string name="book1_title">Android Smartphones Seniors Guide</string>
+    <string name="book1_description">Android Smartphones Seniors Guide</string>
+
+    <string name="book2_title">Android Smartphones For Dummies</string>
+    <string name="book2_description">Android Smartphones Seniors Guide</string>
+
+    <string name="book3_title">Android Programming for Beginners</string>
+    <string name="book3_description">Android Smartphones Seniors Guide</string>
+
+
+</resources>
