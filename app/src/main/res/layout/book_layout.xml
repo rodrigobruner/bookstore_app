@@ -29,7 +29,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:textStyle="bold"
-                android:textSize="8pt"
+                android:textSize="16sp"
                 android:text="@string/book1_title" />
 
             <ImageView
@@ -37,6 +37,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="400dp"
                 android:layout_marginTop="10dp"
+                android:contentDescription="@string/book_cover_description"
                 android:src="@drawable/book1" />
 
             <TextView
@@ -47,7 +48,7 @@
                 android:layout_marginBottom="10dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
-                android:textSize="6pt"
+                android:textSize="12sp"
                 android:textStyle="italic"
                 android:text="@string/book1_description" />
 
@@ -61,7 +62,7 @@
                 android:layout_marginRight="20dp"
                 android:textAllCaps="true"
                 android:textStyle="bold"
-                android:textSize="10pt"
+                android:textSize="18sp"
                 android:textColor="@color/buy_now_button"
                 android:text="@string/buy_now" />
         </LinearLayout>
